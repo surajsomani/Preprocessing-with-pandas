@@ -1,0 +1,8 @@
+pip install pandas
+
+1st.py-> 1st pandas dataset
+
+2nd.py-> Multiple list and understanding Data frame
+
+3rd.py-> multiple IO
+
